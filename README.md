@@ -16,7 +16,7 @@ Demonstrate minimum 15 basic Git command with explanation and screenshot.
 
 ![image](https://user-images.githubusercontent.com/106509394/194056528-8ea205a9-e9b4-4c6c-b668-3dedf394b8c0.png)
 
-**4) git commit** :-  (The **git commit** cmd commits the staged snapshot to the project history and we can provide the commit comment for review.)
+**4) git commit** :-  (The **git commit** cmd commits the staged snapshot to the project history and we can provide the commit comment for review.ie commit is staging)
 
 ![image](https://user-images.githubusercontent.com/106509394/194096722-d6cd0970-11b1-4f88-aa83-c48e9eafce04.png)
 
@@ -48,6 +48,25 @@ Demonstrate minimum 15 basic Git command with explanation and screenshot.
 
 ![image](https://user-images.githubusercontent.com/106509394/194116839-9debe94e-5b39-4f51-8fd9-65323b1acb67.png)
 ![image](https://user-images.githubusercontent.com/106509394/194117247-de48d699-a755-4543-b6c9-e5b06e22a0b4.png)
+
+**12) git branch -d** :-  (The **git branch -d** cmd is used to delete the unrequired branches from repo)
+
+![image](https://user-images.githubusercontent.com/106509394/194332900-510b809c-7317-4ab9-81d3-0ba78e530953.png)
+
+13) **git restore** :-  (The **git restore** is used when we again move the file from the staged to the unstaged area.)
+
+![image](https://user-images.githubusercontent.com/106509394/194334048-0fbaff7e-44f7-4ac6-a27a-e1cb8b6596b0.png)
+
+14) **git diff** :-  (The **git diff** will display the comparison between uncommitted changes with the current commit.)
+
+![image](https://user-images.githubusercontent.com/106509394/194335128-1e822dd9-1982-4f01-a790-9d1c96756476.png)
+
+15) **git reset** :-  (The **git reset** will reset the changes back to a specific commit, discarding all commits made after. .)
+
+![image](https://user-images.githubusercontent.com/106509394/194336468-b5701bbd-5236-497f-aaa6-09144413a18d.png)
+
+
+
 
 
 
