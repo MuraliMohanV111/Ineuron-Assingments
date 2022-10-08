@@ -65,15 +65,14 @@ Demonstrate minimum 15 basic Git command with explanation and screenshot.
 
 ![image](https://user-images.githubusercontent.com/106509394/194336468-b5701bbd-5236-497f-aaa6-09144413a18d.png)
 
+
+
 **Task 2**
 
-Consider that your want to start an open-source project in your organization. Perform all the standard operation to create a repository with minimal permision for all the users. It should contain.
-Proper open source structure
-Proper Readme
-Add 2 collaborator
-Host GitHub Pages using settings (Designed to host your personal, organization, or project pages from a GitHub repository)
+![image](https://user-images.githubusercontent.com/106509394/194710313-e2791960-419e-4757-b4bf-bd8fe30a49a6.png)
 
-Link for Task 2 :- https://github.com/MuraliMohanV111/TASK2/tree/main
+
+
 
 
 
